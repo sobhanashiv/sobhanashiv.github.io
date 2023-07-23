@@ -1349,9 +1349,9 @@ input, select, textarea {
 				display: none;
 			}
 
-			.poptrox-popup .caption {
+			/*.poptrox-popup .caption {
 				display: none !important;
-			}
+			}*/
 
 			.poptrox-popup .closer,
 			.poptrox-popup .nav-previous,
@@ -1672,7 +1672,6 @@ input, select, textarea {
 			opacity: 0;
 			position: absolute;
 			top: 0;
-			visibility: hidden;
 			width: 100%;
 			z-index: 1;
 		}
